@@ -53,7 +53,7 @@ def construção(i):
   return personagens
 
 
-#INÍCIO DO MEU CÓDIGO
+#INÍCIO DO CÓDIGO (CHAMADA ÀS FUNÇÕES E CRIAÇÃO DAS INSTÂNCIAS DA CLASSE "Personagem")
 print()
 personagens = []
 for i in range(2):
